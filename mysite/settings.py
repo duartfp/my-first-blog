@@ -25,7 +25,7 @@ SECRET_KEY = '6prlnnfyfs#tzphxg)=a(0^_l+peomp@fb&ajgqadq-_-3n87^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://duartfp.pythonanywhere.com/']
 
 
 # Application definition
